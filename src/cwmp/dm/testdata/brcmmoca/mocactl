@@ -245,6 +245,7 @@ RxUc    1792      1       28    N/A        4.50 dBm 291224268 bps   39.5 dB
 RxBc    1792      0       28    N/A        4.50 dBm 291224268 bps   39.5 dB
 RxMap   1344      0       64    N/A        4.50 dBm 193846153 bps   39.5 dB
 ===========================================================
+
 Tx Unicast Bit Loading Info      Rx Unicast Bit Loading Info
 --------------------------------     -------------------------------
 00008888888888888888888888888888     00008888888888888888888888888888
@@ -267,6 +268,7 @@ Rx Broadcast Bit Loading Info       Rx Map Bit Loading Info
 88888888888888888888888888888888    66666666666666666666666666666666
 88888888888888888888888888888000    66666666666666666666666666666000
 --------------------------------    -------------------------------
+
 Node                             : 1
 =============================================
 MAC Address                      : 00:01:00:11:23:99
@@ -285,6 +287,7 @@ RxUc    1791      1       27    N/A        4.40 dBm 291224268 bps   39.4 dB
 RxBc    1791      0       27    N/A        4.40 dBm 291224268 bps   39.4 dB
 RxMap   1343      0       63    N/A        4.40 dBm 193846153 bps   39.4 dB
 ===========================================================
+
 Tx Unicast Bit Loading Info      Rx Unicast Bit Loading Info
 --------------------------------     -------------------------------
 00008888888888888888888888888888     00008888888888888888888888888888
@@ -307,6 +310,8 @@ Rx Broadcast Bit Loading Info       Rx Map Bit Loading Info
 88888888888888888888888888888888    66666666666666666666666666666666
 88888888888888888888888888888000    66666666666666666666666666666000
 --------------------------------    -------------------------------
+
+
 All Node Information
 =====================
 Nbas  Preamble     CP    TxPower   RxPower  Rate
@@ -340,6 +345,7 @@ Rx CodeWord ErrorAndCorrected    : 1
 Rx CodeWord ErrorAndUnCorrected  : 2
 Rx NoSync Errors                 : 3
 =============================================
+
 MoCA Node Extended Statistics Table
 =============================================
 Node                             : 0
@@ -360,6 +366,7 @@ NODE_RX_P1_ERROR                      : 0
 NODE_RX_P2_ERROR                      : 0
 NODE_RX_P3_ERROR                      : 0
 NODE_RX_P1_GCD_ERROR                  : 0
+
 =============================================
 Node                             : 1
 MAC Address                      : 00:01:00:11:23:44
@@ -371,6 +378,7 @@ Rx CodeWord ErrorAndCorrected    : 0
 Rx CodeWord ErrorAndUnCorrected  : 1
 Rx NoSync Errors                 : 0
 =============================================
+
 MoCA Node Extended Statistics Table
 =============================================
 Node                             : 1
@@ -413,6 +421,7 @@ RxUc    1792      1       28    N/A        4.50 dBm 291224268 bps   39.5 dB
 RxBc    1792      0       28    N/A        2.50 dBm 290224268 bps   39.5 dB
 RxMap   1344      0       64    N/A        4.50 dBm 193846153 bps   39.5 dB
 ===========================================================
+
 Tx Unicast Bit Loading Info          Rx Unicast Bit Loading Info
 --------------------------------     -------------------------------
 00008888888888888888888888888888     00008888888888888888888888888888
@@ -457,6 +466,7 @@ RxUc    1792      1       28    N/A        3.50 dBm 281224268 bps   38.5 dB
 RxBc    1792      0       28    N/A        1.50 dBm 280224268 bps   38.5 dB
 RxMap   1344      0       64    N/A        3.50 dBm 183846153 bps   38.5 dB
 ===========================================================
+
 Tx Unicast Bit Loading Info          Rx Unicast Bit Loading Info
 --------------------------------     -------------------------------
 00008888888888888888888888888888     00008888888888888888888888888888
@@ -492,6 +502,7 @@ Rx CodeWord ErrorAndCorrected    : 4
 Rx CodeWord ErrorAndUnCorrected  : 5
 Rx NoSync Errors                 : 6
 =============================================
+
 Node                             : 0
 =============================================
 NODE_RX_UC_CRC_ERROR                  : 0
@@ -524,6 +535,7 @@ Rx CodeWord ErrorAndCorrected    : 10
 Rx CodeWord ErrorAndUnCorrected  : 11
 Rx NoSync Errors                 : 12
 =============================================
+
 Node                             : 1
 =============================================
 NODE_RX_UC_CRC_ERROR                  : 0
